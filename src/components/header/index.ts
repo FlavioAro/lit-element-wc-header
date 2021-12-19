@@ -38,6 +38,7 @@ export class MyElement extends LitElement {
       flex-direction: row;
       list-style: none;
     }
+    
     ul li a {
       height: 80px;
       margin: 0 16px;
@@ -49,9 +50,11 @@ export class MyElement extends LitElement {
       text-transform: capitalize;
       position: relative;
     }
+    
     ul li a:hover {
       color: #ececec;
     }
+    
     ul li a:hover::after {
       content: "";
       position: absolute;
@@ -72,6 +75,7 @@ export class MyElement extends LitElement {
       color: #fff;
       cursor: pointer;
     }
+    
     .account a {
       font-size: 12px;
       text-transform: uppercase;
@@ -126,9 +130,11 @@ export class MyElement extends LitElement {
       border: 1px solid transparent;
       border-bottom: 1px solid #242424;
     }
+    
     .header nav {
       width: 80%;
     }
+    
     #img-login {
       position: absolute;
       display: block;
