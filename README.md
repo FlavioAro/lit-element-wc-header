@@ -7,7 +7,7 @@ https://www.youtube.com/NerdAutodidata
 You can see my youtube video for this project in<br>
 https://www.youtube.com/watch?v=fOcJ5VZ8zbc
 
-![header2](https://user-images.githubusercontent.com/35077695/151461978-03dacfbd-41f8-4eee-b7ba-1bf339465ba3.PNG)
+![header3](https://user-images.githubusercontent.com/35077695/151462146-ed06d8b4-bbef-4023-8b97-409f1c8f434d.PNG)
 
 ## Project setup
 ```
