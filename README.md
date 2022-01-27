@@ -7,6 +7,8 @@ https://www.youtube.com/NerdAutodidata
 You can see my youtube video for this project in<br>
 https://www.youtube.com/watch?v=fOcJ5VZ8zbc
 
+![header](https://user-images.githubusercontent.com/35077695/151461356-b2c5dd08-4186-4185-9e87-4f0c88d321e3.PNG)
+
 ## Project setup
 ```
 npm install
